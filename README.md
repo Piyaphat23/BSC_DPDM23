@@ -36,7 +36,7 @@ Data Preparation and Data Mining
 - [Quiz9-1](https://github.com/Piyaphat23/BSC_DPDM23/blob/main/quiz9%20(1).pdf)
 - [Quiz9-2](https://github.com/Piyaphat23/BSC_DPDM23/blob/main/quiz9%20(2).pdf)
 - [Quiz9-3](https://github.com/Piyaphat23/BSC_DPDM23/blob/main/quiz9%20(3).pdf)
- # Homewrk
+ # Homework
   Members
 กลุ่มได้หมด
 ``` 
@@ -49,3 +49,6 @@ Data Preparation and Data Mining
 - [HW1_Colab](https://github.com/Piyaphat23/BSC_DPDM23/blob/main/Frequent_Patterns_(Association_Rules).ipynb)
 - [HW1_Presentation](https://drive.google.com/file/d/1GwjNX86n9gQ3SYO8FLR2rFRNKxIuOi1u/view?usp=drive_link)
 - [HW2](https://github.com/Piyaphat23/BSC_DPDM23/blob/main/%E0%B9%87HW2.ipynb)
+- [HW3](https://github.com/Piyaphat23/BSC_DPDM23/blob/main/Hw3.ipynb)
+- [HW4](https://github.com/Piyaphat23/BSC_DPDM23/blob/main/Decision%20tree%20classifier%20HW4%20%20Min_weight_fraction_leaf.pdf)
+-  [HW5](https://github.com/Piyaphat23/BSC_DPDM23/blob/main/HW5.pdf)
