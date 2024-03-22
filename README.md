@@ -13,6 +13,7 @@ Data Preparation and Data Mining
 -[Midterm](https://colab.research.google.com/github/Piyaphat23/BSC_DPDM23/blob/main/midterm_bscdpdm23.ipynb)
 # Final Project
   Members
+กลุ่มได้หมด&จะดีหรอ
   ```
  643020507-4  นายปิยพัทธ์ ปานะถึก        
  643020508-2  นางสาวพัณณิตา ทองบ่อ      
@@ -27,4 +28,11 @@ Data Preparation and Data Mining
  643021264-9  นายธนพร ก้านกิ่ง          
 ```
 - [Colab](https://colab.research.google.com/github/Piyaphat23/BSC_DPDM23/blob/main/Internet.ipynb)
-- [Presentation](
+- [Presentation](https://drive.google.com/drive/folders/1ZA4xrgFdGIze_UbRTs9LketQuCLSkJTA)
+  # Quiz
+  - [Quiz8](https://github.com/Piyaphat23/BSC_DPDM23/blob/main/Quiz8.pdf)
+  - [Quiz9](https://github.com/Piyaphat23/BSC_DPDM23/blob/main/quiz9.pdf)
+  - [Quiz9-1](https://github.com/Piyaphat23/BSC_DPDM23/blob/main/quiz9%20(1).pdf)
+  - [Quiz9-2](https://github.com/Piyaphat23/BSC_DPDM23/blob/main/quiz9%20(2).pdf)
+  - [Quiz9-3](https://github.com/Piyaphat23/BSC_DPDM23/blob/main/quiz9%20(3).pdf)
+  - 
