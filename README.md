@@ -37,7 +37,7 @@ Data Preparation and Data Mining
 - [Quiz9-2](https://github.com/Piyaphat23/BSC_DPDM23/blob/main/quiz9%20(2).pdf)
 - [Quiz9-3](https://github.com/Piyaphat23/BSC_DPDM23/blob/main/quiz9%20(3).pdf)
  # Homework
-  Members
+   HW1 Members
 กลุ่มได้หมด
 ``` 
  643020507-4  นายปิยพัทธ์ ปานะถึก        
@@ -50,5 +50,22 @@ Data Preparation and Data Mining
 - [HW1_Presentation](https://drive.google.com/file/d/1GwjNX86n9gQ3SYO8FLR2rFRNKxIuOi1u/view?usp=drive_link)
 - [HW2](https://github.com/Piyaphat23/BSC_DPDM23/blob/main/%E0%B9%87HW2.ipynb)
 - [HW3](https://github.com/Piyaphat23/BSC_DPDM23/blob/main/Hw3.ipynb)
+
+HW4  Members
+กลุ่มได้หมด&จะดีหรอ
+  ```
+ 643020507-4  นายปิยพัทธ์ ปานะถึก        
+ 643020508-2  นางสาวพัณณิตา ทองบ่อ      
+ 643020514-7  นายภูริศ เครือชารี           
+ 643020510-5  นางสาวพิมชนก วงศ์สายเชื้อ   
+ 643020514-7  นายภูริศ เครือชารี           
+ 643020520-2  นางสาววิภาดา ห่วงสูงเนิน     
+ 643020520-2  นางสาวหทัยชนก สรวงชัยภูมิ   
+ 643020523-6  นางสาวสิรภัทร ไชยมาตย์     
+ 643020528-6  นายอาฤญช์ จรูญรักษ์        
+ 643021262-3  นางสาวจินดาพร โพธิ์ภูมี     
+ 643021264-9  นายธนพร ก้านกิ่ง          
+```
+
 - [HW4_Presentation](https://github.com/Piyaphat23/BSC_DPDM23/blob/main/Decision%20tree%20classifier%20HW4%20%20Min_weight_fraction_leaf.pdf)
 -  [HW5](https://github.com/Piyaphat23/BSC_DPDM23/blob/main/HW5.pdf)
