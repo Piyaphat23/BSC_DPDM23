@@ -50,5 +50,5 @@ Data Preparation and Data Mining
 - [HW1_Presentation](https://drive.google.com/file/d/1GwjNX86n9gQ3SYO8FLR2rFRNKxIuOi1u/view?usp=drive_link)
 - [HW2](https://github.com/Piyaphat23/BSC_DPDM23/blob/main/%E0%B9%87HW2.ipynb)
 - [HW3](https://github.com/Piyaphat23/BSC_DPDM23/blob/main/Hw3.ipynb)
-- [HW4](https://github.com/Piyaphat23/BSC_DPDM23/blob/main/Decision%20tree%20classifier%20HW4%20%20Min_weight_fraction_leaf.pdf)
+- [HW4_Presentation](https://github.com/Piyaphat23/BSC_DPDM23/blob/main/Decision%20tree%20classifier%20HW4%20%20Min_weight_fraction_leaf.pdf)
 -  [HW5](https://github.com/Piyaphat23/BSC_DPDM23/blob/main/HW5.pdf)
